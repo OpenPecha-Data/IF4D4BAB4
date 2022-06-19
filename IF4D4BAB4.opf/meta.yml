@@ -1,0 +1,173 @@
+id: IF4D4BAB4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:55:28.544648'
+last_modified: '2022-06-19T17:55:28.544659'
+parser: null
+source_metadata:
+  title: Tsok Series
+  language: en
+  description: 'Lotsawa House presents the following texts related to the practice
+    of tsok (tshogs) or feast-gathering (Skt. gaṇacakra):'
+  volume:
+    f2678:
+      title: Introduction to Gaṇacakra (Tsok)
+      base_file: f2678.txt
+      order: 1
+      parent: Introduction
+    f9BDE:
+      title: A Concise Explanation of Gaṇacakra
+      base_file: f9BDE.txt
+      order: 2
+      parent: Explanation
+    fCECB:
+      title: 'A Bouquet of Uḍumbara Flowers: An Explanation of the Tenth Day'
+      base_file: fCECB.txt
+      order: 3
+      parent: Explanation
+    fC0C3:
+      title: 'Music to Adorn the Illusory Display: A Concise Explanation of the Nature
+        of the Feast Offering'
+      base_file: fC0C3.txt
+      order: 4
+      parent: Explanation
+    f0A15:
+      title: The Gaṇacakra Ritual
+      base_file: f0A15.txt
+      order: 5
+      parent: Explanation
+    fC221:
+      title: 'Sweet Droplets of the Honey of Accomplishment: A Concise Explanation
+        of the Indispensable Points of the Feast-Gathering'
+      base_file: fC221.txt
+      order: 6
+      parent: Explanation
+    fFBB1:
+      title: 'Cloud-Banks of the Two Accumulations: A Feast Offering Including the
+        Six Vajra Lines Prayer to Be Practiced with Any Guru Sādhana'
+      base_file: fFBB1.txt
+      order: 7
+      parent: Offering Liturgies
+    f4FCE:
+      title: 'The Source of Abundant Merit: A Feast-Offering for the Secret Practice
+        of the Great Compassionate One, Natural Liberation of Suffering from The Heart-Essence
+        of the Vast Expanse'
+      base_file: f4FCE.txt
+      order: 8
+      parent: Offering Liturgies
+    f54E3:
+      title: 'The Lotus Garland: A Short Feast-Offering for the Female Practice of
+        the Heart Essence of the Vast Expanse'
+      base_file: f54E3.txt
+      order: 9
+      parent: Offering Liturgies
+    f6E6E:
+      title: 'Bestowing the Glory of Wisdom: A Gaṇacakra Feast for Nyingtik Saldrön'
+      base_file: f6E6E.txt
+      order: 10
+      parent: Offering Liturgies
+    fDAFD:
+      title: 'A Glorious Garland of the Two Accomplishments: An Abridged Feast-Offering
+        for the Female Practice of the Ḍākinī'
+      base_file: fDAFD.txt
+      order: 11
+      parent: Offering Liturgies
+    f66B3:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: f66B3.txt
+      order: 12
+      parent: Prayers
+    f3384:
+      title: The Brief Tsok Feast Offering Prayer from 'The Profound Path of the Ḍākinīs'
+        Heart Drop'
+      base_file: f3384.txt
+      order: 13
+      parent: Prayers
+    f9F43:
+      title: Verses for Accumulating the Tsok Offering of the Combined Practice of
+        the Three Roots (Tsasum Drildrup)
+      base_file: f9F43.txt
+      order: 14
+      parent: Prayers
+    f0B01:
+      title: 'Essence of Accomplishment: A Concise Feast-Offering to Noble Tārā'
+      base_file: f0B01.txt
+      order: 15
+      parent: Prayers
+    fCF4C:
+      title: Short Tsok Offering to the Powerful Lady Kurukullā
+      base_file: fCF4C.txt
+      order: 16
+      parent: Prayers
+    f1F81:
+      title: Brief Prayer of the Feast Gathering
+      base_file: f1F81.txt
+      order: 17
+      parent: Prayers
+    f83B2:
+      title: Confession and Fulfilment Insert for Accumulating the Practice of Turning
+        Back the Summons of the Ḍākinīs
+      base_file: f83B2.txt
+      order: 18
+      parent: Prayers
+    f4CB7:
+      title: Food Offering Prayer
+      base_file: f4CB7.txt
+      order: 19
+      parent: Prayers
+    f0E33:
+      title: Concise Tsok Feast
+      base_file: f0E33.txt
+      order: 20
+      parent: Prayers
+    f6F5B:
+      title: 'Excellent Vase of Splendour: The Tsok Feast Offering to Accompany the
+        Vajra Seven-Line Prayer'
+      base_file: f6F5B.txt
+      order: 21
+      parent: Prayers
+    fF12A:
+      title: A Concise Feast Prayer
+      base_file: fF12A.txt
+      order: 22
+      parent: Prayers
+    f777F:
+      title: Remainder Torma Offering for Seven-Line Prayer Guru Yoga
+      base_file: f777F.txt
+      order: 23
+      parent: Remainder Offering
+    f8166:
+      title: The Song of the Vajra
+      base_file: f8166.txt
+      order: 24
+      parent: Songs
+    f5514:
+      title: 'Ḍākinī’s Delight: A Song of the Feast'
+      base_file: f5514.txt
+      order: 25
+      parent: Songs
+    fF6FA:
+      title: 'Harmonious Clouds of Sublime and Lasting Bliss: A Vajra Song for the
+        Tsok Feast Offering to Venerable and Exalted Vajrayoginī'
+      base_file: fF6FA.txt
+      order: 26
+      parent: Songs
+    fBEC1:
+      title: 'Song and Dance to Delight the Ḍākas and Ḍākinīs: An Aspiration for the
+        Sixfold Satisfaction of the Maṇḍala of the Feast-Gathering'
+      base_file: fBEC1.txt
+      order: 27
+      parent: Songs
+    f517C:
+      title: Song of the Feast (Tsok Lu)
+      base_file: f517C.txt
+      order: 28
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
